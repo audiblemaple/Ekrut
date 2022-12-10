@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inheritJdk="true">
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="mysql-connector-java-8.0.13.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/server/src/Application/server/mysql-connector-java-8.0.13.jar!/"/>
+	</lib>
+	<levels>
+		<level name="javafx-swt" value="project"/>
+	</levels>
+</component>

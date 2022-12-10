@@ -42,6 +42,7 @@ public class MysqlController {
 
 		try {
 			String jdbcURL = "jdbc:mysql://" + this.IP + ":3306?serverTimezone=UTC";
+			//String jdbcURL = "jdbc:mysql://" + this.IP + ":3306";
 			this.connection = DriverManager.getConnection(jdbcURL, this.dataBaseusername, this.dataBasepassword);
 			returnStatement += "SQL connection succeed\n";
 			return returnStatement;
