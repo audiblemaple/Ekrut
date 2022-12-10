@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+D:\eclipse\Ekrut\.metadata\.plugins\org.eclipse.jdt.core
+2461411560.index
+1865797976.index
+262142283.index
+758615375.index
